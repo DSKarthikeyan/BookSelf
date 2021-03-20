@@ -1,3 +1,20 @@
 <resources>
     <string name="app_name">BookSelf</string>
+
+    <string name="text_book_name">Book Name</string>
+    <string name="text_author">Author</string>
+    <string name="text_published_date">Publisher Date</string>
+    <string name="text_page_count">Page Count</string>
+    <string name="text_is_bn">isbn</string>
+
+    <string name="text_category">Category</string>
+    <string name="text_book_count">Book Count</string>
+
+    <string name="text_description">Description</string>
+    <string name="text_short_description">Short Description</string>
+    <string name="text_long_description">Long Description</string>
+
+    <string name="text_favorite">Favorites</string>
+    <string name="set_favorite">Set favorite</string>
+
 </resources>
